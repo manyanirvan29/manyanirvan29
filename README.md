@@ -141,6 +141,7 @@ A desktop-based news credibility analyzer that evaluates article reliability usi
 Java • JDBC • MySQL
 
 🔗 Repository Link: https://github.com/neavpanjwani99/Fake-News-Intent-Analyzer.git
+
 ---
 
 ## 🏥 Smart Hospital Management System — DSA Project (C++)
