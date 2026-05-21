@@ -170,7 +170,9 @@ C++ • File Handling • Data Structures & Algorithms
 
 > ⚡ This project demonstrates practical implementation of core DSA concepts in a real-world healthcare workflow system.
 
-🔗 Repository: https://github.com/manyanirvan29/smart-hospital-management-system.git
+🔗 Repository Link: https://github.com/manyanirvan29/smart-hospital-management-system.git
+
+---
 ---
 
 ## 🏢 Society Management Systems — PHP Backend Projects
