@@ -5,7 +5,7 @@
 📍 Mumbai, India
 📧 [nirvanmanya@gmail.com](mailto:nirvanmanya@gmail.com)
 🐙 GitHub: [@manyanirvan29](https://github.com/manyanirvan29)
-💼 LinkedIn: https://linkedin.com/manya-nirvan
+💼 LinkedIn: www.linkedin.com/in/manya-nirvan
 
 ---
 
@@ -75,8 +75,8 @@ A complete e-commerce platform inspired by MagicalJar with secure authentication
 
 React • Node.js • Express.js • MongoDB • Tailwind CSS • Cloudinary
 
-🔗 Add Live Demo Link
-🔗 Add Repository Link
+
+🔗Repository Link : https://github.com/manyanirvan29/magicaljar-clone.git
 
 ---
 
@@ -97,8 +97,7 @@ A community-driven environmental issue reporting system with image uploads, geol
 
 React • Node.js • Express.js • MongoDB
 
-🔗 Add Live Demo Link
-🔗 Add Repository Link
+🔗 Repository Link: https://github.com/neavpanjwani99/EcoAlert_MernApplication.git
 
 ---
 
@@ -121,7 +120,7 @@ An award-winning donation platform connecting donors with NGOs through dynamic m
 
 Flask • MySQL • Python • Flask-Mail
 
-🔗 Add Repository Link
+🔗 Repository Link: https://github.com/neavpanjwani99/CharityDropDonationMatchingSystem.git
 
 ---
 
@@ -141,6 +140,7 @@ A desktop-based news credibility analyzer that evaluates article reliability usi
 
 Java • JDBC • MySQL
 
+🔗 Repository Link: https://github.com/neavpanjwani99/Fake-News-Intent-Analyzer.git
 ---
 
 ## 🏥 Smart Hospital Management System — DSA Project (C++)
@@ -284,7 +284,7 @@ Vivekananda Education Society's College, Mumbai
 
 📧 Email: [nirvanmanya@gmail.com](mailto:nirvanmanya@gmail.com)
 🐙 GitHub: [https://github.com/manyanirvan29](https://github.com/manyanirvan29)
-💼 LinkedIn: Add Your LinkedIn Link Here
+💼 LinkedIn: www.linkedin.com/in/manya-nirvan
 
 ---
 
